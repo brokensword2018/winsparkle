@@ -85,7 +85,7 @@ msgstr "更新發生錯誤！"
 
 #: src/ui.cpp:807
 msgid "An error occurred in retrieving update information; are you connected to the internet? Please try again later."
-msgstr "擷取更新資訊時遭遇錯誤，您是否已連結到網際網路？請稍後重試。"
+msgstr "更新錯誤，您是否已連結到網際網路？請稍後重試。"
 
 #: src/ui.cpp:810
 msgid "The update is improperly signed."
